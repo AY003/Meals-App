@@ -22,3 +22,11 @@ FRONTEND Mobile Application for Showcase:
 •	Difficulties Encountered: Lots of trial and Error required on choosing the relevant UI elements.
              
 •	Softwares/Frameworks Used: DART(Programming Language),Flutter Framework, Android Studio,    Visual Studio Code, Firebase(NoSQL Database and Tools by Google)
+
+![Screenshot](Screenshot_20200121-114341.png)
+
+![Screenshot](Screenshot_20200121-114355.png)
+
+![Screenshot](Screenshot_20200121-114401.png)
+
+![Screenshot](Screenshot_20200121-114413.png)
